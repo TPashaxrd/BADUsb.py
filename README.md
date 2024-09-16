@@ -14,21 +14,15 @@ Open **cmd** or **Terminal**
  4- You know what to do.
 
 # Requirements
-|---------------------------|
 
-| pycryptodome                 ]
-
-| pillow                             pip install {requirements}        
-
-| pyautogui                    {
-
-|----------------------------|
+#- pycryptodome & pillow & pyautogui & & pywin32
+  - pip3 install {requirements}
  
  
  🇹🇷 
 
-# - Hiç bir yasal sorunu kabul etmiyoruz.
-# - Tüm sorumluluk size aittir.
+- Hiç bir yasal sorunu kabul etmiyoruz.
+- Tüm sorumluluk size aittir.
 
 
 ![image](https://github.com/user-attachments/assets/81a18f83-286f-4c39-99e3-e2919afd1069)
