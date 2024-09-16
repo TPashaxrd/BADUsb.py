@@ -15,7 +15,7 @@ Open **cmd** or **Terminal**
 
 # Requirements
 
-#- pycryptodome & pillow & pyautogui & & pywin32
+**- pycryptodome & pillow & pyautogui & & pywin32**
   - pip3 install {requirements}
  
  
