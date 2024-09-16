@@ -14,11 +14,15 @@ Open **cmd** or **Terminal**
  4- You know what to do.
 
 # Requirements
-** |---------------------------|**
-** | pycryptodome                 ]**
-** | pillow                             pip install {requirements}**             
-** | pyautogui                    {**
-** |----------------------------|**
+|---------------------------|
+
+| pycryptodome                 ]
+
+| pillow                             pip install {requirements}        
+
+| pyautogui                    {
+
+|----------------------------|
  
  
  🇹🇷 
