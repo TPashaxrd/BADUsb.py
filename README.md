@@ -15,6 +15,8 @@ Open **cmd** or **Terminal**
  
  5- pip install pycryptodome
 
+ 6- pip install pyautogui
+ 
  🇹🇷 
 
 # - Hiç bir yasal sorunu kabul etmiyoruz.
