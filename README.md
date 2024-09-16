@@ -5,7 +5,7 @@ BAD Usb with Python. Only Education.
 **How can i install?**
 Open **cmd** or **Terminal**
 
- 1- git clone https://www.github.com/TPashaxrd/BADUsb.py
+ 1- git clone https://www.github.com/TPashaxrd/BADUsb.py.git
  
  2- pip install pywin32
  
