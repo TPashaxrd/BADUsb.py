@@ -19,3 +19,6 @@ Open **cmd** or **Terminal**
 
 # - Hiç bir yasal sorunu kabul etmiyoruz.
 # - Tüm sorumluluk size aittir.
+
+
+![image](https://github.com/user-attachments/assets/81a18f83-286f-4c39-99e3-e2919afd1069)
