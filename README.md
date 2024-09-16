@@ -12,10 +12,14 @@ Open **cmd** or **Terminal**
  3- cd BADUsb.py
  
  4- You know what to do.
- 
- 5- pip install pycryptodome
 
- 6- pip install pyautogui
+# Requirements
+** |---------------------------|**
+** | pycryptodome                 ]**
+** | pillow                             pip install {requirements}**             
+** | pyautogui                    {**
+** |----------------------------|**
+ 
  
  🇹🇷 
 
