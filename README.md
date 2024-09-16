@@ -6,9 +6,13 @@ BAD Usb with Python. Only Education.
 Open **cmd** or **Terminal**
 
  1- git clone https://www.github.com/TPashaxrd/BADUsb.py
+ 
  2- pip install pywin32
+ 
  3- cd BADUsb.py
+ 
  4- You know what to do.
+ 
  5- pip install pycryptodome
 
  🇹🇷 
