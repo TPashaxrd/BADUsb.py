@@ -9,6 +9,7 @@ Open **cmd** or **Terminal**
  2- pip install pywin32
  3- cd BADUsb.py
  4- You know what to do.
+ 5- pip install pycryptodome
 
  🇹🇷 
 
