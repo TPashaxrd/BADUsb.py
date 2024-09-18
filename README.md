@@ -16,7 +16,7 @@ Open **cmd** or **Terminal**
 # Requirements
 
 **- pycryptodome & pillow & pyautogui & & pywin32 &  opencv-python pyautogui numpy**
-  - pip3 install {requirements}
+  - pip install {requirements}
 
  🇹🇷 
 
